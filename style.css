@@ -89,3 +89,37 @@ footer{
     padding:20px;
     margin-top:40px;
 }
+.hero{
+    background:linear-gradient(rgba(0,0,0,.45),rgba(0,0,0,.45)),
+    url("https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1600");
+    background-size:cover;
+    background-position:center;
+    color:white;
+    text-align:center;
+    padding:120px 20px;
+}
+
+.hero h2{
+    font-size:42px;
+    margin-bottom:20px;
+    color:white;
+}
+
+.hero p{
+    font-size:22px;
+    margin-bottom:35px;
+}
+
+.hero a{
+    background:#ffc107;
+    color:#222;
+    text-decoration:none;
+    padding:15px 35px;
+    border-radius:10px;
+    font-weight:bold;
+    font-size:18px;
+}
+
+.hero a:hover{
+    background:#ffca2c;
+}
