@@ -123,3 +123,35 @@ footer{
 .hero a:hover{
     background:#ffca2c;
 }
+.cards{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+gap:20px;
+width:90%;
+max-width:1100px;
+margin:40px auto;
+}
+
+.card{
+background:white;
+padding:30px;
+border-radius:15px;
+box-shadow:0 5px 15px rgba(0,0,0,.1);
+transition:.3s;
+text-align:center;
+}
+
+.card:hover{
+transform:translateY(-8px);
+box-shadow:0 10px 25px rgba(0,0,0,.2);
+}
+
+.card h3{
+color:#0d6efd;
+margin-bottom:15px;
+font-size:24px;
+}
+
+.card p{
+line-height:1.8;
+}
