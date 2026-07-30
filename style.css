@@ -51,7 +51,17 @@ nav a:hover{
     background:white;
     color:#0d6efd;
 }
+<section class="hero">
 
+<h2>به آموزشگاه نسبت دار گراشی خوش آمدید</h2>
+
+<p>
+محیطی پویا، آموزشی و خلاق برای رشد علمی، فرهنگی و اخلاقی دانش‌آموزان
+</p>
+
+<a href="#">اطلاعیه های آموزشگاه</a>
+
+</section>
 section{
     width:90%;
     max-width:1000px;
