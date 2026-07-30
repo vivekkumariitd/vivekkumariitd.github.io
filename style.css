@@ -1,1 +1,36 @@
-body{}
+body{
+    margin:0;
+    font-family:Tahoma,sans-serif;
+    background:#f4f8fc;
+    color:#333;
+    text-align:center;
+}
+
+header{
+    background:#0b5ed7;
+    color:white;
+    padding:40px 20px;
+}
+
+header h1{
+    margin:0;
+    font-size:36px;
+}
+
+header p{
+    font-size:20px;
+}
+
+section{
+    width:90%;
+    max-width:900px;
+    margin:40px auto;
+    background:white;
+    padding:30px;
+    border-radius:15px;
+    box-shadow:0 0 15px rgba(0,0,0,.15);
+}
+
+h2{
+    color:#0b5ed7;
+}
